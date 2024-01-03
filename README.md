@@ -1,1 +1,1 @@
-deployed link: https://celadon-douhua-e2d942.netlify.app/
+deployed link: https://chating-application-react.netlify.app/
